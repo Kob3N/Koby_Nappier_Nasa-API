@@ -1,0 +1,15 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server --baseDir=\"Public\""
+  },
+  "author": "Koby Nappier",
+  "license": "private",
+  "private":"true",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
